@@ -142,6 +142,8 @@ img {
     .row{
         flex-direction: column;
     }
-   
-
+    .row > .col{
+        width: 100%;
+        margin-bottom: 50px;
+    }
 }
