@@ -157,4 +157,12 @@ img {
         width: 100%;
         margin-bottom: 50px;
     }
+    .why-us{
+        background-color: #222;
+        margin-bottom: 0;
+        padding: 3rem 0;
+    }
+    .steps{
+        margin-bottom: 0px;
+    }
 }
